@@ -1,0 +1,12 @@
+{
+    "author": "<%= authorsName %>",
+    "version": "v1.0",
+    "title": "<%= packageName %>",
+    "description": "<%= packageDescription %>",
+    "published": "",
+    "sourcecode": "",
+    "homepage": "<%= packageHomePageURL %>", 
+    "widgets": [ ],
+    "programs": [ ],
+    "interfaces": [ ]
+}
